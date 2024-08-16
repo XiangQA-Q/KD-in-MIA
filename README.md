@@ -53,7 +53,7 @@ Knowledge Distillation (KD) is a technique to transfer the knowledge from a comp
 |Towards efficient medical image segmentation via boundary-guided knowledge distillation|[PDF](https://ieeexplore.ieee.org/abstract/document/9428395)|-|
 |Difficulty-Aware Brain Lesion Segmentation from MRI Scans|[PDF](https://link.springer.com/article/10.1007/s11063-021-10714-4)|-|
 |GID: Global information distillation for medical semantic segmentation|[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0925231222007950)|-|
-|https://www.sciencedirect.com/science/article/abs/pii/S0925231222007950|[PDF](https://ieeexplore.ieee.org/abstract/document/10083150)|[Code](https://github.com/HiLab-git/LCOVNet-and-KD)|
+|Efficient Multi-Organ Segmentation from 3D Abdominal CT Images with Lightweight Network and Knowledge Distillation|[PDF](https://ieeexplore.ieee.org/abstract/document/10083150)|[Code](https://github.com/HiLab-git/LCOVNet-and-KD)|
 |Efficient medical image segmentation based on knowledge distillation|[PDF](https://ieeexplore.ieee.org/abstract/document/9491090)|-|
 |Distill DSM: Computationally efficient method for segmentation of medical imaging volumes|[PDF](https://proceedings.mlr.press/v143/maheshwari21a/maheshwari21a.pdf)|-|
 |SurgiNet: Pyramid attention aggregation and class-wise self-distillation for surgical instrument segmentation|[PDF](https://www.sciencedirect.com/science/article/abs/pii/S1361841521003558)|-|
