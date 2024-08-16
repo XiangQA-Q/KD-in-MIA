@@ -99,23 +99,32 @@ Knowledge Distillation (KD) is a technique to transfer the knowledge from a comp
 
 |Paper|PDF|Code|
 |---|---|---|
-||[PDF]()|-|
-||[PDF]()|-|
-||[PDF]()|-|
-||[PDF]()|-|
-||[PDF]()|-|
-||[PDF]()|-|
-||[PDF]()|-|
-||[PDF]()|-|
-||[PDF]()|-|
-||[PDF]()|-|
-||[PDF]()|-|
+|Classification and localization consistency regularized student-teacher network for semi-supervised cervical cell detection|[PDF](https://ieeexplore.ieee.org/abstract/document/9474764)|-|
+|Detection and recognition of ultrasound breast nodules based on semi-supervised deep learning: a powerful alternative strategy|[PDF](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8107344/)|-|
+|Knowledge distillation with adaptive asymmetric label sharpening for semi-supervised fracture detection in chest x-rays|[PDF](https://link.springer.com/chapter/10.1007/978-3-030-78191-0_46)|-|
+|SSMD: Semi-Supervised medical image detection with adaptive consistency and heterogeneous perturbation|[PDF](https://www.sciencedirect.com/science/article/abs/pii/S1361841521001638)|-|
+|A semi-supervised Teacher-Student framework for surgical tool detection and localization|[PDF](https://www.tandfonline.com/doi/full/10.1080/21681163.2022.2150688)|-|
+|A source-free domain adaptive polyp detection framework with style diversification flow|[PDF](https://ieeexplore.ieee.org/abstract/document/9709278)|[Code](https://github.com/CityU-AIM-Group/SFPolypDA)|
+|Weakly Supervised Lesion Detection and Diagnosis for Breast Cancers with Partially Annotated Ultrasound Images|[PDF](https://ieeexplore.ieee.org/abstract/document/10439278)|-|
+|Attention distillation for detection transformers: application to real-time video object detection in ultrasound|[PDF](https://proceedings.mlr.press/v158/rubin21a.htm)|-|
+|Automated detection of cerebral microbleeds on MR images using knowledge distillation framework|[PDF](https://www.frontiersin.org/journals/neuroinformatics/articles/10.3389/fninf.2023.1204186/full)|-|
+|Oxnet: Deep omni-supervised thoracic disease detection from chest x-rays|[PDF](https://link.springer.com/chapter/10.1007/978-3-030-87196-3_50)|[Code](https://github.com/LLYXC/OXnet)|
+|Anatomical Landmark Detection Using a Feature-Sharing Knowledge Distillation-Based Neural Network|[PDF](https://www.mdpi.com/2079-9292/11/15/2337)|-|
+|Knowledge distillation with a class-aware loss for endoscopic disease detection|[PDF](https://link.springer.com/chapter/10.1007/978-3-031-17979-2_7)|-|
+
 
 
 ## KD in Medical image reconstruction
 
 |Paper|PDF|Code|
 |---|---|---|
+||[PDF]()|-|
+||[PDF]()|-|
+||[PDF]()|-|
+||[PDF]()|-|
+||[PDF]()|-|
+||[PDF]()|-|
+||[PDF]()|-|
 ||[PDF]()|-|
 
 
@@ -124,12 +133,24 @@ Knowledge Distillation (KD) is a technique to transfer the knowledge from a comp
 |Paper|PDF|Code|
 |---|---|---|
 ||[PDF]()|-|
-
+||[PDF]()|-|
+||[PDF]()|-|
+||[PDF]()|-|
+||[PDF]()|-|
+||[PDF]()|-|
+||[PDF]()|-|
 
 ## KD in Radiology report generation and VQA
 
 |Paper|PDF|Code|
 |---|---|---|
+||[PDF]()|-|
+||[PDF]()|-|
+||[PDF]()|-|
+||[PDF]()|-|
+||[PDF]()|-|
+||[PDF]()|-|
+||[PDF]()|-|
 ||[PDF]()|-|
 
 
@@ -139,6 +160,13 @@ Knowledge Distillation (KD) is a technique to transfer the knowledge from a comp
 
 |Paper|PDF|Code|
 |---|---|---|
+||[PDF]()|-|
+||[PDF]()|-|
+||[PDF]()|-|
+||[PDF]()|-|
+||[PDF]()|-|
+||[PDF]()|-|
+||[PDF]()|-|
 ||[PDF]()|-|
 
 
