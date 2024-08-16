@@ -43,3 +43,56 @@ Knowledge Distillation (KD) is a technique to transfer the knowledge from a comp
 |RadioTransformer: a cascaded global-focal transformer for visual attention--guided disease classification|[PDF](https://link.springer.com/chapter/10.1007/978-3-031-19803-8_40)|[Code](https://github.com/bmi-imaginelab/radiotransformer)|
 |MF-OMKT: Model fusion based on online mutual knowledge transfer for breast cancer histopathological image classification|[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0933365722001853)|[Code]()|
 |Improving the explainability of skin cancer diagnosis using CBIR|[PDF](https://link.springer.com/chapter/10.1007/978-3-030-87199-4_52)|[Code](https://github.com/catarina-barata/CBIR_Explainability_Skin_Cancer)|
+
+## KD in Medical image segmentation
+
+|Paper|PDF|Code|
+|---|---|---|
+||[PDF]()|-|
+
+
+## KD in Medical image detection
+
+|Paper|PDF|Code|
+|---|---|---|
+||[PDF]()|-|
+
+
+## KD in Medical image reconstruction
+
+|Paper|PDF|Code|
+|---|---|---|
+||[PDF]()|-|
+
+
+## KD in Medical image registration
+
+|Paper|PDF|Code|
+|---|---|---|
+||[PDF]()|-|
+
+
+## KD in Radiology report generation and VQA
+
+|Paper|PDF|Code|
+|---|---|---|
+||[PDF]()|-|
+
+
+
+
+## KD in Medical image privacy protection
+
+|Paper|PDF|Code|
+|---|---|---|
+||[PDF]()|-|
+
+
+
+
+
+
+
+
+
+
