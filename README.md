@@ -58,9 +58,9 @@ Knowledge Distillation (KD) is a technique to transfer the knowledge from a comp
 |Distill DSM: Computationally efficient method for segmentation of medical imaging volumes|[PDF](https://proceedings.mlr.press/v143/maheshwari21a/maheshwari21a.pdf)|-|
 |SurgiNet: Pyramid attention aggregation and class-wise self-distillation for surgical instrument segmentation|[PDF](https://www.sciencedirect.com/science/article/abs/pii/S1361841521003558)|-|
 |Low-memory CNNs enabling real-time ultrasound segmentation towards mobile deployment|[PDF](https://ieeexplore.ieee.org/abstract/document/8999615)|[Code](https://github.com/sagarvaze96/lightweight_unet)|
-|Coco distillnet: a cross-layer correlation distillation network for pathological gastric cancer segmentation|[PDF](Coco distillnet: a cross-layer correlation distillation network for pathological gastric cancer segmentation)|-|
+|Coco distillnet: a cross-layer correlation distillation network for pathological gastric cancer segmentation|[PDF]([Coco distillnet: a cross-layer correlation distillation network for pathological gastric cancer segmentation](https://ieeexplore.ieee.org/abstract/document/9669551))|-|
 |Deep semi-supervised segmentation with weight-averaged consistency targets|[PDF](https://link.springer.com/chapter/10.1007/978-3-030-00889-5_2)|-|
-|Uncertainty-aware self-ensembling model for semi-supervised 3D left atrium segmentation|[PDF](Uncertainty-aware self-ensembling model for semi-supervised 3D left atrium segmentation)|[Code](https://github.com/yulequan/UA-MT)|
+|Uncertainty-aware self-ensembling model for semi-supervised 3D left atrium segmentation|[PDF]([Uncertainty-aware self-ensembling model for semi-supervised 3D left atrium segmentation](https://link.springer.com/chapter/10.1007/978-3-030-32245-8_67))|[Code](https://github.com/yulequan/UA-MT)|
 |Double-uncertainty weighted method for semi-supervised learning|[PDF](https://link.springer.com/chapter/10.1007/978-3-030-59710-8_53)|-|
 |Local and global structure-aware entropy regularized mean teacher model for 3d left atrium segmentation|[PDF](https://link.springer.com/chapter/10.1007/978-3-030-59710-8_55)|-|
 |Transformation-consistent self-ensembling model for semisupervised medical image segmentation|[PDF](https://ieeexplore.ieee.org/abstract/document/9104928)|-|
