@@ -48,13 +48,68 @@ Knowledge Distillation (KD) is a technique to transfer the knowledge from a comp
 
 |Paper|PDF|Code|
 |---|---|---|
-||[PDF]()|-|
+|Enhancing tiny tissues segmentation via self-distillation|[PDF](https://ieeexplore.ieee.org/abstract/document/9313542)|-|
+|Learning tubule-sensitive CNNs for pulmonary airway and artery-vein segmentation in CT|[PDF](https://ieeexplore.ieee.org/abstract/document/9363945)|[Code](http://www.pami.sjtu.edu.cn/News/56)|
+|Towards efficient medical image segmentation via boundary-guided knowledge distillation|[PDF](https://ieeexplore.ieee.org/abstract/document/9428395)|-|
+|Difficulty-Aware Brain Lesion Segmentation from MRI Scans|[PDF](https://link.springer.com/article/10.1007/s11063-021-10714-4)|-|
+|GID: Global information distillation for medical semantic segmentation|[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0925231222007950)|-|
+|https://www.sciencedirect.com/science/article/abs/pii/S0925231222007950|[PDF](https://ieeexplore.ieee.org/abstract/document/10083150)|[Code](https://github.com/HiLab-git/LCOVNet-and-KD)|
+|Efficient medical image segmentation based on knowledge distillation|[PDF](https://ieeexplore.ieee.org/abstract/document/9491090)|-|
+|Distill DSM: Computationally efficient method for segmentation of medical imaging volumes|[PDF](https://proceedings.mlr.press/v143/maheshwari21a/maheshwari21a.pdf)|-|
+|SurgiNet: Pyramid attention aggregation and class-wise self-distillation for surgical instrument segmentation|[PDF](https://www.sciencedirect.com/science/article/abs/pii/S1361841521003558)|-|
+|Low-memory CNNs enabling real-time ultrasound segmentation towards mobile deployment|[PDF](https://ieeexplore.ieee.org/abstract/document/8999615)|[Code](https://github.com/sagarvaze96/lightweight_unet)|
+|Coco distillnet: a cross-layer correlation distillation network for pathological gastric cancer segmentation|[PDF](Coco distillnet: a cross-layer correlation distillation network for pathological gastric cancer segmentation)|-|
+|Deep semi-supervised segmentation with weight-averaged consistency targets|[PDF](https://link.springer.com/chapter/10.1007/978-3-030-00889-5_2)|-|
+|Uncertainty-aware self-ensembling model for semi-supervised 3D left atrium segmentation|[PDF](Uncertainty-aware self-ensembling model for semi-supervised 3D left atrium segmentation)|[Code](https://github.com/yulequan/UA-MT)|
+|Double-uncertainty weighted method for semi-supervised learning|[PDF](https://link.springer.com/chapter/10.1007/978-3-030-59710-8_53)|-|
+|Local and global structure-aware entropy regularized mean teacher model for 3d left atrium segmentation|[PDF](https://link.springer.com/chapter/10.1007/978-3-030-59710-8_55)|-|
+|Transformation-consistent self-ensembling model for semisupervised medical image segmentation|[PDF](https://ieeexplore.ieee.org/abstract/document/9104928)|-|
+|3D graph-S 2 Net: shape-aware self-ensembling network for semi-supervised segmentation with bilateral graph convolution|[PDF](https://link.springer.com/chapter/10.1007/978-3-030-87196-3_39)|-|
+|All-around real label supervision: Cyclic prototype consistency learning for semi-supervised medical image segmentation|[PDF](https://ieeexplore.ieee.org/abstract/document/9741294)|-|
+|Bootstrapping semi-supervised medical image segmentation with anatomical-aware contrastive distillation|[PDF](https://link.springer.com/chapter/10.1007/978-3-031-34048-2_49)|-|
+|Cross-mix monitoring for medical image segmentation with limited supervision|[PDF](https://ieeexplore.ieee.org/abstract/document/9721091)|-|
+|Knowledge Distillation from Cross Teaching Teachers for Efficient Semi-supervised Abdominal Organ Segmentation in CT|[PDF](https://link.springer.com/chapter/10.1007/978-3-031-23911-3_10)|[Code](https://github.com/jwc-rad/MISLight)|
+|Simcvd: Simple contrastive voxel-wise representation distillation for semi-supervised medical image segmentation|[PDF](https://ieeexplore.ieee.org/abstract/document/9740182)|-|
+|Semi-Supervised Medical Image Segmentation With Voxel Stability and Reliability Constraints|[PDF](https://ieeexplore.ieee.org/abstract/document/10120761)|-|
+|Weakly supervised segmentation of COVID19 infection with scribble annotation on CT images|[PDF](https://www.sciencedirect.com/science/article/pii/S0031320321005215)|-|
+|PA-Seg: Learning from Point Annotations for 3D Medical Image Segmentation using Contextual Regularization and Cross Knowledge Distillation|[PDF](https://ieeexplore.ieee.org/abstract/document/10044712)|-|
+|A noise-robust framework for automatic segmentation of COVID-19 pneumonia lesions from CT images|[PDF](https://ieeexplore.ieee.org/abstract/document/9109297)|-|
+|Distilling effective supervision for robust medical image segmentation with noisy labels|[PDF](https://link.springer.com/chapter/10.1007/978-3-030-87193-2_63)|-|
+|Study group learning: Improving retinal vessel segmentation trained with noisy labels|[PDF](https://link.springer.com/chapter/10.1007/978-3-030-87193-2_6)|[Code](https://github.com/SHI-Labs/SGL-Retinal-Vessel-Segmentation)|
+|Anti-interference from noisy labels: Mean-teacher-assisted confident learning for medical image segmentation|[PDF](https://ieeexplore.ieee.org/abstract/document/9779756)|-|
+|Segmentation with mixed supervision: Confidence maximization helps knowledge distillation|[PDF](https://www.sciencedirect.com/science/article/abs/pii/S1361841522002985)|[Code](https://github.com/by-liu/ConfKD)|
+|Teacher-student approach for lung tumor segmentation from mixed-supervised datasets|[PDF](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0266147)|-|
+|A teacher-student framework for liver and tumor segmentation under mixed supervision from abdominal CT scans|[PDF](https://link.springer.com/article/10.1007/s00521-022-07240-2)|-|
+|CFEA: Collaborative feature ensembling adaptation for domain adaptation in unsupervised optic disc and cup segmentation|[PDF](https://link.springer.com/chapter/10.1007/978-3-030-32254-0_58)|-|
+|Privileged modality distillation for vessel border detection in intracoronary imaging|[PDF](https://ieeexplore.ieee.org/abstract/document/8896024)|-|
+|Dual-teacher: Integrating intra-domain and inter-domain teachers for annotation-efficient cardiac segmentation|[PDF](https://link.springer.com/chapter/10.1007/978-3-030-59710-8_41)|-|
+|Student Becomes Decathlon Master in Retinal Vessel Segmentation via Dual-Teacher Multi-target Domain Adaptation|[PDF](https://link.springer.com/chapter/10.1007/978-3-031-21014-3_4)|-|
+|A Structure-aware Framework of Unsupervised Cross-Modality Domain Adaptation via Frequency and Spatial Knowledge Distillation|[PDF](https://ieeexplore.ieee.org/abstract/document/10261458)|[Code](https://github.com/slliuEric/FSUDA)|
+|Mt-uda: Towards unsupervised cross-modality medical image segmentation with limited source labels|[PDF](https://link.springer.com/chapter/10.1007/978-3-030-87193-2_28)|-|
+|Had-net: A hierarchical adversarial knowledge distillation network for improved enhanced tumour segmentation without post-contrast images|[PDF](https://proceedings.mlr.press/v143/vadacchino21a.html)|[Code](https://github.com/SaverioVad/HAD_Net)|
+|Learning with privileged multimodal knowledge for unimodal segmentation|[PDF](https://ieeexplore.ieee.org/abstract/document/9567675)|-|
+|A Single Stage Knowledge Distillation Network for Brain Tumor Segmentation on Limited MR Image Modalities|[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0169260723003097)|-|
+|D 2-Net: Dual disentanglement network for brain tumor segmentation with missing modalities|[PDF](https://ieeexplore.ieee.org/abstract/document/9775681)|[Code](https://github.com/CityU-AIM-Group/D2Net)|
+|M3AE: Multimodal Representation Learning for Brain Tumor Segmentation with Missing Modalities|[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/25253)|[Code](https://github.com/ccarliu/m3ae)|
+|Modality-Agnostic Learning for Medical Image Segmentation Using Multi-modality Self-distillation|[PDF](
+https://arxiv.org/abs/2306.03730)|-|
+
 
 
 ## KD in Medical image detection
 
 |Paper|PDF|Code|
 |---|---|---|
+||[PDF]()|-|
+||[PDF]()|-|
+||[PDF]()|-|
+||[PDF]()|-|
+||[PDF]()|-|
+||[PDF]()|-|
+||[PDF]()|-|
+||[PDF]()|-|
+||[PDF]()|-|
+||[PDF]()|-|
 ||[PDF]()|-|
 
 
