@@ -91,8 +91,7 @@ Knowledge Distillation (KD) is a technique to transfer the knowledge from a comp
 |A Single Stage Knowledge Distillation Network for Brain Tumor Segmentation on Limited MR Image Modalities|[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0169260723003097)|-|
 |D 2-Net: Dual disentanglement network for brain tumor segmentation with missing modalities|[PDF](https://ieeexplore.ieee.org/abstract/document/9775681)|[Code](https://github.com/CityU-AIM-Group/D2Net)|
 |M3AE: Multimodal Representation Learning for Brain Tumor Segmentation with Missing Modalities|[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/25253)|[Code](https://github.com/ccarliu/m3ae)|
-|Modality-Agnostic Learning for Medical Image Segmentation Using Multi-modality Self-distillation|[PDF](
-https://arxiv.org/abs/2306.03730)|-|
+|Modality-Agnostic Learning for Medical Image Segmentation Using Multi-modality Self-distillation|[PDF](https://arxiv.org/abs/2306.03730)|-|
 
 
 
