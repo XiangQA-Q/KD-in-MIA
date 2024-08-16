@@ -165,7 +165,7 @@ Knowledge Distillation (KD) is a technique to transfer the knowledge from a comp
 |Preserving privacy in federated learning with ensemble cross-domain knowledge distillation|[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/21446)|-|
 |FedTD: Efficiently Share Telemedicine Data with Federated Distillation Learning|[PDF](https://link.springer.com/chapter/10.1007/978-3-031-20096-0_37)|-|
 |Medical Image Segmentation Based on Federated Distillation Optimization Learning on Non-IID Data|[PDF](https://link.springer.com/chapter/10.1007/978-981-99-4749-2_30)|-|
-|Compressed gastric image generation based on soft-label dataset distillation for medical data sharing|[PDF](Compressed gastric image generation based on soft-label dataset distillation for medical data sharing)|-|
+|Compressed gastric image generation based on soft-label dataset distillation for medical data sharing|[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0169260722005703)|-|
 |SEDA: Self-ensembling ViT with Defensive Distillation and Adversarial Training for Robust Chest X-Rays Classification|[PDF](https://link.springer.com/chapter/10.1007/978-3-031-45857-6_13)|[Code](https://github.com/Razaimam45/SEDA)|
 
 
