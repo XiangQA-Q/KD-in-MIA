@@ -8,7 +8,7 @@ Knowledge Distillation (KD) is a technique to transfer the knowledge from a comp
 ## KD in Medical image diagnosis and classification
 
 |Paper|PDF|Code|
-|---|:---:|---|
+|---|---|---|
 |Knowledge distillation in histology landscape by multi-layer features supervision|[PDF](https://ieeexplore.ieee.org/abstract/document/10018566)|[Code]()|
 |Covid-mobilexpert: On-device covid-19 screening using snapshots of chest x-ray|[PDF](https://europepmc.org/article/ppr/ppr346253)|[Code](https://github.com/xinli0928/COVID-Xray)|
 |Classification of histopathologic images of breast cancer by multi-teacher small-sample knowledge distillation|[PDF](https://ieeexplore.ieee.org/abstract/document/9797592)|[Code]()|
@@ -17,8 +17,7 @@ Knowledge Distillation (KD) is a technique to transfer the knowledge from a comp
 |Ssd-kd: A self-supervised diverse knowledge distillation method for lightweight skin lesion classification using dermoscopic images|[PDF](https://www.sciencedirect.com/science/article/abs/pii/S1361841522003218)|[Code](https://github.com/enkiwang/Portable-Skin-Lesion-Diagnosis)|
 |Distilling Knowledge from Topological Representations for Pathological Complete Response Prediction|[PDF](https://link.springer.com/chapter/10.1007/978-3-031-16434-7_6)|[Code](https://github.com/zoedsy/DK_Topology_PCR)|
 |Explainable Knowledge Distillation for On-Device Chest X-Ray Classification|[PDF](https://ieeexplore.ieee.org/abstract/document/10114588)|[Code]()|
-|Lightweight convolutional neural network with knowledge distillation for cervical cells classification|[PDF](https://www.sciencedirect.com/science/article/abs/pii/S1746809421007746
-)|[Code]()|
+|Lightweight convolutional neural network with knowledge distillation for cervical cells classification|[PDF](https://www.sciencedirect.com/science/article/abs/pii/S1746809421007746)|[Code]()|
 |Overcoming limitation of dissociation between MD and MI classifications of breast cancer histopathological images through a novel decomposed feature-based knowledge distillation method|[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0010482522002050)|[Code]()|
 |Resolution-based distillation for efficient histology image classification|[PDF](https://www.sciencedirect.com/science/article/pii/S0933365721001299)|[Code]()|
 |Fine-grained interactive attention learning for semi-supervised white blood cell classification|[PDF](https://www.sciencedirect.com/science/article/abs/pii/S1746809422001331)|[Code]()|
