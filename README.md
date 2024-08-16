@@ -118,14 +118,14 @@ Knowledge Distillation (KD) is a technique to transfer the knowledge from a comp
 
 |Paper|PDF|Code|
 |---|---|---|
-||[PDF]()|-|
-||[PDF]()|-|
-||[PDF]()|-|
-||[PDF]()|-|
-||[PDF]()|-|
-||[PDF]()|-|
-||[PDF]()|-|
-||[PDF]()|-|
+|Deep neural networks for low-dose CT image reconstruction via cooperative meta-learning strategy|[PDF](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11312/1131243/Deep-neural-networks-for-low-dose-CT-image-reconstruction-via/10.1117/12.2548950.short#_=_)|-|
+|Semi-supervised learning via improved teacher-student network for robust 3d reconstruction of stereo endoscopic image|[PDF](https://dl.acm.org/doi/abs/10.1145/3474085.3475527)|-|
+|Semi-supervised Distillation Learning Based on Swin Transformer for MRI Reconstruction|[PDF](https://link.springer.com/chapter/10.1007/978-3-031-18910-4_6)|-|
+|KD-MRI: A knowledge distillation framework for image reconstruction and image restoration in MRI workflow|[PDF](https://proceedings.mlr.press/v121/murugesan20a.html)|-|
+|SFT-KD-Recon: Learning a Student-friendly Teacher for Knowledge Distillation in Magnetic Resonance Image Reconstruction|[PDF](https://proceedings.mlr.press/v227/matcha24a.html)|-|
+|Realistic medical image super-resolution with pyramidal feature multi-distillation networks for intelligent healthcare systems|[PDF](https://link.springer.com/article/10.1007/s00521-021-06287-x)|-|
+|Universal undersampled mri reconstruction|[PDF](https://link.springer.com/chapter/10.1007/978-3-030-87231-1_21)|-|
+|Total-body low-dose CT image denoising using a prior knowledge transfer technique with a contrastive regularization mechanism|[PDF](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.16163)|-|
 
 
 ## KD in Medical image registration
