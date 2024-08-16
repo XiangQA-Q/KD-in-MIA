@@ -132,26 +132,24 @@ Knowledge Distillation (KD) is a technique to transfer the knowledge from a comp
 
 |Paper|PDF|Code|
 |---|---|---|
-||[PDF]()|-|
-||[PDF]()|-|
-||[PDF]()|-|
-||[PDF]()|-|
-||[PDF]()|-|
-||[PDF]()|-|
-||[PDF]()|-|
+|Light-weight deformable registration using adversarial learning with distilling knowledge|[PDF](https://ieeexplore.ieee.org/abstract/document/9672098)|[Code](https://github.com/aioz-ai/LDR_ALDK)|
+|Cross-resolution distillation for efficient 3D medical image registration|[PDF](https://ieeexplore.ieee.org/abstract/document/9782430)|-|
+|Adapting the Mean Teacher for keypoint-based lung registration under geometric domain shifts|[PDF](https://link.springer.com/chapter/10.1007/978-3-031-16446-0_27)|[Code](https://github.com/multimodallearning/registration-da-mean-teacher)|
+|Joint few-shot registration and segmentation self-training of 3D medical images|[PDF](https://www.sciencedirect.com/science/article/abs/pii/S1746809422007480)|-|
+|Self-Distilled Hierarchical Network for Unsupervised Deformable Image Registration|[PDF](https://ieeexplore.ieee.org/abstract/document/10042453)|[Code](https://github.com/Blcony/SDHNet)|
 
 ## KD in Radiology report generation and VQA
 
 |Paper|PDF|Code|
 |---|---|---|
-||[PDF]()|-|
-||[PDF]()|-|
-||[PDF]()|-|
-||[PDF]()|-|
-||[PDF]()|-|
-||[PDF]()|-|
-||[PDF]()|-|
-||[PDF]()|-|
+|An inclusive task-aware framework for radiology report generation|[PDF](https://link.springer.com/chapter/10.1007/978-3-031-16452-1_54)|[Code](https://github.com/Reremee/ITA)|
+|KiUT: Knowledge-injected U-Transformer for Radiology Report Generation|[PDF](https://openaccess.thecvf.com/content/CVPR2023/html/Huang_KiUT_Knowledge-Injected_U-Transformer_for_Radiology_Report_Generation_CVPR_2023_paper.html)|-|
+|Bridging the Gap: Cross-modal Knowledge Driven Network for Radiology Report Generation|[PDF](https://ieeexplore.ieee.org/abstract/document/10385967)|-|
+|Exploring and distilling posterior and prior knowledge for radiology report generation|[PDF](https://openaccess.thecvf.com/content/CVPR2021/html/Liu_Exploring_and_Distilling_Posterior_and_Prior_Knowledge_for_Radiology_Report_CVPR_2021_paper.html)|-|
+|Improving chest X-ray report generation by leveraging warm starting|[PDF](https://www.sciencedirect.com/science/article/pii/S0933365723001471)|[Code](https://github.com/aehrc/cvt2distilgpt2)|
+|Contrastive pre-training and representation distillation for medical visual question answering based on radiology images|[PDF](https://link.springer.com/chapter/10.1007/978-3-030-87196-3_20)|[Code](https://github.com/awenbocc/cprd)|
+|MHKD-MVQA: Multimodal Hierarchical Knowledge Distillation for Medical Visual Question Answering|[PDF](https://ieeexplore.ieee.org/abstract/document/9995473)|-|
+
 
 
 
@@ -160,15 +158,15 @@ Knowledge Distillation (KD) is a technique to transfer the knowledge from a comp
 
 |Paper|PDF|Code|
 |---|---|---|
-||[PDF]()|-|
-||[PDF]()|-|
-||[PDF]()|-|
-||[PDF]()|-|
-||[PDF]()|-|
-||[PDF]()|-|
-||[PDF]()|-|
-||[PDF]()|-|
-
+|Ensemble attention distillation for privacy-preserving federated learning|[PDF](https://openaccess.thecvf.com/content/ICCV2021/html/Gong_Ensemble_Attention_Distillation_for_Privacy-Preserving_Federated_Learning_ICCV_2021_paper.html)|-|
+|Medisecfed: Private and secure medical image classification in the presence of malicious clients|[PDF](https://ieeexplore.ieee.org/abstract/document/9664357)|-|
+|Cyclic Federated Learning Method Based on Distribution Information Sharing and Knowledge Distillation for Medical Data|[PDF](https://www.mdpi.com/2079-9292/11/23/4039)|-|
+|Federated learning with privacy-preserving ensemble attention distillation|[PDF](https://ieeexplore.ieee.org/abstract/document/9915468)|-|
+|Preserving privacy in federated learning with ensemble cross-domain knowledge distillation|[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/21446)|-|
+|FedTD: Efficiently Share Telemedicine Data with Federated Distillation Learning|[PDF](https://link.springer.com/chapter/10.1007/978-3-031-20096-0_37)|-|
+|Medical Image Segmentation Based on Federated Distillation Optimization Learning on Non-IID Data|[PDF](https://link.springer.com/chapter/10.1007/978-981-99-4749-2_30)|-|
+|Compressed gastric image generation based on soft-label dataset distillation for medical data sharing|[PDF](Compressed gastric image generation based on soft-label dataset distillation for medical data sharing)|-|
+|SEDA: Self-ensembling ViT with Defensive Distillation and Adversarial Training for Robust Chest X-Rays Classification|[PDF](https://link.springer.com/chapter/10.1007/978-3-031-45857-6_13)|[Code](https://github.com/Razaimam45/SEDA)|
 
 
 
