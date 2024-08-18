@@ -16,11 +16,11 @@ Knowledge Distillation (KD) is a technique to transfer the knowledge from a comp
 |Pathological image classification via embedded fusion mutual learning|[PDF](https://www.sciencedirect.com/science/article/abs/pii/S1746809422006358)|-|
 |Ssd-kd: A self-supervised diverse knowledge distillation method for lightweight skin lesion classification using dermoscopic images|[PDF](https://www.sciencedirect.com/science/article/abs/pii/S1361841522003218)|[Code](https://github.com/enkiwang/Portable-Skin-Lesion-Diagnosis)|
 |Distilling Knowledge from Topological Representations for Pathological Complete Response Prediction|[PDF](https://link.springer.com/chapter/10.1007/978-3-031-16434-7_6)|[Code](https://github.com/zoedsy/DK_Topology_PCR)|
-|Explainable Knowledge Distillation for On-Device Chest X-Ray Classification|[PDF](https://ieeexplore.ieee.org/abstract/document/10114588)|[-|
+|Explainable Knowledge Distillation for On-Device Chest X-Ray Classification|[PDF](https://ieeexplore.ieee.org/abstract/document/10114588)|-|
 |Lightweight convolutional neural network with knowledge distillation for cervical cells classification|[PDF](https://www.sciencedirect.com/science/article/abs/pii/S1746809421007746)|-|
-|Overcoming limitation of dissociation between MD and MI classifications of breast cancer histopathological images through a novel decomposed feature-based knowledge distillation method|[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0010482522002050)|[-|
+|Overcoming limitation of dissociation between MD and MI classifications of breast cancer histopathological images through a novel decomposed feature-based knowledge distillation method|[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0010482522002050)|-|
 |Resolution-based distillation for efficient histology image classification|[PDF](https://www.sciencedirect.com/science/article/pii/S0933365721001299)|-|
-|Fine-grained interactive attention learning for semi-supervised white blood cell classification|[PDF](https://www.sciencedirect.com/science/article/abs/pii/S1746809422001331)|[-|
+|Fine-grained interactive attention learning for semi-supervised white blood cell classification|[PDF](https://www.sciencedirect.com/science/article/abs/pii/S1746809422001331)|-|
 |Automatic grading assessments for knee MRI cartilage defects via self-ensembling semi-supervised learning with dual-consistency|[PDF](https://www.sciencedirect.com/science/article/abs/pii/S1361841522001554)|[Code](https://github.com/King-HAW/DC-MT)|
 |Semi-supervised classification of radiology images with NoTeacher: A teacher that is not mean|[PDF](https://www.sciencedirect.com/science/article/abs/pii/S1361841521001948)|-|
 |Semi-supervised medical image classification with relation-driven self-ensembling model|[PDF](https://ieeexplore.ieee.org/abstract/document/9095275)|-|
