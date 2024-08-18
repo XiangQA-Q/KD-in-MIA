@@ -9,7 +9,7 @@ Knowledge Distillation (KD) is a technique to transfer the knowledge from a comp
 
 |Paper|PDF|Code|
 |---|---|---|
-|Knowledge distillation in histology landscape by multi-layer features supervision|[PDF](https://ieeexplore.ieee.org/abstract/document/10018566)|[-|
+|Knowledge distillation in histology landscape by multi-layer features supervision|[PDF](https://ieeexplore.ieee.org/abstract/document/10018566)|-|
 |Covid-mobilexpert: On-device covid-19 screening using snapshots of chest x-ray|[PDF](https://europepmc.org/article/ppr/ppr346253)|[Code](https://github.com/xinli0928/COVID-Xray)|
 |Classification of histopathologic images of breast cancer by multi-teacher small-sample knowledge distillation|[PDF](https://ieeexplore.ieee.org/abstract/document/9797592)|-|
 |ADINet: Attribute driven incremental network for retinal image classification|[PDF](https://openaccess.thecvf.com/content_CVPR_2020/html/Meng_ADINet_Attribute_Driven_Incremental_Network_for_Retinal_Image_Classification_CVPR_2020_paper.html)|-|
