@@ -43,6 +43,7 @@ Knowledge Distillation (KD) is a technique to transfer the knowledge from a comp
 |RadioTransformer: a cascaded global-focal transformer for visual attention--guided disease classification|[PDF](https://link.springer.com/chapter/10.1007/978-3-031-19803-8_40)|[Code](https://github.com/bmi-imaginelab/radiotransformer)|
 |MF-OMKT: Model fusion based on online mutual knowledge transfer for breast cancer histopathological image classification|[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0933365722001853)|-|
 |Improving the explainability of skin cancer diagnosis using CBIR|[PDF](https://link.springer.com/chapter/10.1007/978-3-030-87199-4_52)|[Code](https://github.com/catarina-barata/CBIR_Explainability_Skin_Cancer)|
+|FoPro-KD: Fourier Prompted Effective Knowledge Distillation for Long-Tailed Medical Image Recognition|[PDF](https://ieeexplore.ieee.org/abstract/document/10295509)|[Code](https://github.com/xmed-lab/FoPro-KD)|
 
 ## KD in Medical image segmentation
 
@@ -92,6 +93,8 @@ Knowledge Distillation (KD) is a technique to transfer the knowledge from a comp
 |D 2-Net: Dual disentanglement network for brain tumor segmentation with missing modalities|[PDF](https://ieeexplore.ieee.org/abstract/document/9775681)|[Code](https://github.com/CityU-AIM-Group/D2Net)|
 |M3AE: Multimodal Representation Learning for Brain Tumor Segmentation with Missing Modalities|[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/25253)|[Code](https://github.com/ccarliu/m3ae)|
 |Modality-Agnostic Learning for Medical Image Segmentation Using Multi-modality Self-distillation|[PDF](https://arxiv.org/abs/2306.03730)|-|
+|Boosting knowledge diversity, accuracy, and stability via tri-enhanced distillation for domain continual medical image segmentation|[PDF](https://www.sciencedirect.com/science/article/abs/pii/S1361841524000379)|[Code](https://github.com/PerceptionComputingLab/TED_DCMIS)|
+|ScribSD+: Scribble-supervised medical image segmentation based on simultaneous multi-scale knowledge distillation and class-wise contrastive regularization|[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0895611124000934)|-|
 
 
 
